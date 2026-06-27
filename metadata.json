@@ -1,0 +1,6 @@
+{
+  "name": "MAISON NOIR",
+  "description": "A premium editorial-style luxury fashion e-commerce experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
